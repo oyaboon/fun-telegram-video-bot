@@ -1,0 +1,5 @@
+aiogram>=2.25.1
+yt-dlp>=2023.3.4
+requests>=2.28.2
+python-dotenv>=1.0.0
+loguru>=0.7.0 
